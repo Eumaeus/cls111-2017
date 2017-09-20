@@ -1,2 +1,4 @@
-# cls111-2017
-Texts and Projects for CLS111 at Furman University
+# CLS 111 (Introduction to Classics)
+## Furman University, Fall 2017
+
+Collaborative editing and analysis.
