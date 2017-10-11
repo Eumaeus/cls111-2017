@@ -1,2 +1,28 @@
-urn:cts:greekLit:tlg0007.tlg012.fuPerrin:27#Be that true or not, when Pericles learned of the disaster which had befallen his fleet, he came speedily to its aid. And though Melissus arrayed his forces against him, he conquered and routed the enemy and at once walled their city in, preferring to get the upper hand and capture it at the price of money and time, rather than of the wounds and deadly perils of his fellow-citizens. And since it was a hard task for him to restrain the Athenians in their impatience of delay and eagerness to fight, he separated his whole force into eight divisions, had them draw lots, and allowed the division which got the white bean to feast and take their ease, while the others  p79 did the fighting. And this is the reason, as they say, why those who have had a gay and festive time call it a "white day," — from the white bean.
-Ephorus says that Pericles actually employed siege-engines, in his admiration of their novelty, and that Artemon the engineer was with him there, who, since he was lame, and so had to be brought on a stretcher to the works which demanded his instant attention, was dubbed Periphoretus. Heracleides Ponticus, however, refutes this story out of the poems of Anacreon, in which Artemon Periphoretus is mentioned many generations before the Samian War and its events. 4 And he says that Artemon was very luxurious in his life, as well as weak and panic-stricken in the presence of his fears, and therefore for the most part sat still at home, while two servants held a bronze shield over his head to keep anything from falling down upon it. Whenever he was forced to go abroad, he had himself carried in a little hammock which was borne along just above the surface of the ground. On this account he was called Periphoretus.
+urn:cts:greekLit:tlg0007.tlg012.fuPerrin:27#Pericles quickly returned home to
+help his people from  the disaster that occurred. He soon defeated Melissus and
+walled theircity in to gain the upper hand for the safety of his people in the
+future. Dueto the long and tedious process, Pericles people began to be
+impatient andwanted to go and fight. Not being able to restrain them from
+wanting to go andfight, Pericles decided to separate the Athenians force into
+eight divisions.To be fair, Pericles decided to draw lots and whoever got the
+white bean was allowed to feast and rest. The other seven groups who did not
+draw the white bean were sent off to do all the fighting while the others
+rested. I did learnthat the meaning behind “white day” is originated from the
+white bean, which means to have a fun time/day.
+
+Plutarch went on to mention how Pericles used siege-engines, in which I am
+not familiar with. Once I Googled “siege engines” it came up to be “a device
+that is designed to break or circumvent city walls and other fortifications in
+siege warfare.”Plutarch discussed Artemon, who was an engineer who worked under
+Pericles. Artemon was unable to walk and had to be carried around on a stretcher
+by the other men. Plutarch proceeds to discuss Heracleides Ponticus, who was a
+Greek philosopher, disagreement with the story of Artemon Periphoretus that
+dates back before the Samian war. Heracleides Ponticus stated that Artemon
+actually lived a very lavish lifestyle during his lifetime and was very cautious
+of surroundings. He reached a level of anxiety that made him want to stay in the
+comfort of his home for the most of his life. While he spent most of his time at
+home, Heracleides Ponticus also had two servants who held a bronze shield over
+his head with fear and anxiety of something might fall on his head. Whenever
+Ponticus was required or decided to travel, he was carried around in a hammock
+that sunk just above the surface of the ground. Due to the low range of the
+hammock, he took the name of Periphoretus.
